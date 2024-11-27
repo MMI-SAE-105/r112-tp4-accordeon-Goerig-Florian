@@ -1,3 +1,11 @@
 /**
 * Accordeon
 */
+
+details{
+  
+}
+
+details[open] {
+    width 130 px;
+}

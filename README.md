@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : goerig
+- prénom : florian
+- URL Netlify : https://dreamy-twilight-7c99c9.netlify.app/
 
 # Travail
 
